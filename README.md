@@ -3,6 +3,7 @@
 
 - He trabajado en el hackaton de Generation México [Hackashoes](https://mikael96.github.io/Hackashoes/)
 - He realizado una pagina en HTML, CSS y JavaScript de una pequeña Gestion de Tareas por medio de métodos en JS [Gestor de tareas](https://mikael96.github.io/GestionadorTareas/)
+  
 -He trabajado con la Métodlogia agil SCRUM dentro de algunos proyectos, junto con el team develoer, participando en dailys y springs.
 
 - 🌱 Actualmente estoy aprendiendo **Framework Bootstrap, SpringBoot, JAVA, APIs REST, Microservicios**
