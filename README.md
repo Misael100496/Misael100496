@@ -1,8 +1,8 @@
 <h1 align="center">Hola que tal👋 mi nombre es Ruben Misael Olguin Vivian</h1>
 <h3 align="center">Soy un apasionado por el desarrollo fullstack Java</h3>
 
-- He trabajado en el hackaton de Generation México [Hackashoes](https://mikael96.github.io/Hackashoes/)
-- He realizado una página web en HTML, CSS y JavaScript de una pequeña Gestion de Tareas por medio de metodos en JS [Gestor de tareas](https://mikael96.github.io/GestionadorTareas/)
+- He trabajado en el hackaton de Generation México [Hackashoes](https://Misael100496.github.io/Hackashoes/)
+- He realizado una página web en HTML, CSS y JavaScript de una pequeña Gestion de Tareas por medio de metodos en JS [Gestor de tareas](https://Misael100496.github.io/GestionadorTareas/)
 - He trabajado con la Metodoloía ágil SCRUM dentro de algunos proyectos, junto con el team develoer, participando en dailys y springs.
 
 - 🌱 Actualmente estoy aprendiendo **Framework Bootstrap, SpringBoot, JAVA, APIs REST, Microservicios**
