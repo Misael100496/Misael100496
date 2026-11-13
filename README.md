@@ -1,7 +1,7 @@
 <h1 align="center">Hola que tal👋 mi nombre es Ruben Misael Olguin Vivian</h1>
 <h3 align="center">Soy un apasionado por el desarrollo fullstack Java</h3>
 
-- He trabajado en el hackaton de Generation México [Hackashoes](https://github.com/mikael96/Hackashoes)
+- He trabajado en el hackaton de Generation México [Hackashoes](https://mikael96.github.io/Hackashoes/)
 
 - 🌱 Actualmente estoy aprendiendo **Framework Bootstrap, SpringBoot**
 
